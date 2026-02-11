@@ -7,3 +7,17 @@ openai.com
 perplexity.ai
 superhumanizer.ai
 topai.tools
+claude.ai
+character.ai
+poe.com
+huggingface.co
+groq.com
+replit.com
+notta.ai
+writesonic.com
+you.com
+janitorai.com
+pi.ai
+meta.ai
+zapier.com
+notion.so
